@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Asteroid Radar</string>
+    <string name="close_approach_date">Close approach date</string>
+    <string name="absolute_magnitude">Absolute magnitude</string>
+    <string name="estimated_diameter">Estimated diameter</string>
+    <string name="relative_velocity">Relative velocity</string>
+    <string name="distance_from_earth">Distance from earth</string>
+    <string name="help_image">Help image</string>
+    <string name="help_text">The astronomical unit (au) is a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometres (93 million miles)</string>
+    <string name="help_accept">Accept</string>
+    <string name="image_of_day_description">Image Of Day description</string>
+    <string name="image_of_the_day">Image of the Day</string>
+    <string name="hazardous_content_description">Asteroid hazardous description</string>
+    <string name="icon_to_describe_asteroid_hazardous">Icon to describe asteroid hazardous</string>
+</resources>
